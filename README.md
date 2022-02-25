@@ -12,7 +12,6 @@
     </li>
     <li><a href="#features">Futures</a></li>
     <li><a href="#howto">How to set up</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -65,13 +64,6 @@ the Google Chrome Browser on the local machine
 
 ![linkedin-search](linkedin-search.png)
 
-<!-- USAGE -->
-## Usage
-___
-This project is for education and demonstration purposes. Anyone who is interested in this code is free to use it without any
-prior permission.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
